@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "Proplamgisk"
+    magiskModuleId = "Proplamgisk"
+    moduleName = "Proplamgisk"
+    moduleAuthor = "Krick0"
+    moduleDescription = "Updated version of Zycheats by fedes1to"
+    moduleVersion = "v2.4"
+    moduleVersionCode = 1
+}
